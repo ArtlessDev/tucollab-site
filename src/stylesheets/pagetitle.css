@@ -1,0 +1,18 @@
+.title-content-frame {
+    width: 100vw !important;
+    max-width: 100% !important;
+    position: absolute;
+    float:left;
+    left: 0;
+    align-content: start;
+    text-align: left;
+    background-color: lightgray;
+    overflow: hidden;
+    top: 10vh;
+    color: #242424;
+    
+}
+.title-content{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
